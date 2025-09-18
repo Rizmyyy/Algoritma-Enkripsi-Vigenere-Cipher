@@ -20,7 +20,7 @@ ini diulangi untuk setiap huruf, menghasilkan ciphertext secvvq.
 ## Cara Menjalankan
 
 1.  **Instalasi:** Pastikan Anda memiliki Jupyter Notebook atau Google Colab.
-2.  **Buka File:** Buka file `vigenere_cipher.ipynb` di lingkungan Jupyter atau Colab Anda.
+2.  **Buka File:** Buka file `algoritma_vigenere.ipynb` di lingkungan Jupyter atau Colab Anda.
 3.  **Jalankan:** Jalankan sel kode dari atas ke bawah. Program akan meminta input *plaintext* dan kunci di sel terakhir.
 
 ## Kontributor
